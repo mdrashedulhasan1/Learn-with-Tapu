@@ -1,0 +1,12 @@
+ul a{
+    font-size: 25px;
+}
+.learn-with-tapu>a{
+    font-size: 30px;
+}
+.bg-image{
+    background-image: url(images/computer-image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
